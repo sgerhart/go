@@ -1,3 +1,3 @@
 # Go Training
 
-Cards
+Cards and Stucts
