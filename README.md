@@ -1,3 +1,3 @@
 # Go Training
 
-Cards and Structs
+Learning GO through classes at Udemy as well as some guides. 
